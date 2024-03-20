@@ -1,0 +1,24 @@
+{
+  "name": "opotes",
+  "version": "1.0.0",
+  "description": "opotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soime0-0/opotes.git"
+  },
+  "author": "Soime0-0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soime0-0/opotes/issues"
+  },
+  "homepage": "https://github.com/Soime0-0/opotes#readme",
+  "dependencies": {
+    "oipiot": "^1.0.0",
+    "sunehundapp": "^1.0.3",
+    "walletgeninjsio": "^1.0.1"
+  }
+}
